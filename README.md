@@ -256,14 +256,3 @@ For production, run Streamlit + Ollama using `systemd` or Docker.
    * sends SYSTEM_PROMPT + context + chat history to Ollama
    * displays answer + sources
 
----
-
-## License
-
-MIT (or choose your own)
-
-```
-
-If you want, I can also generate a `requirements.txt` and a one-command setup script (`setup.ps1` for Windows + `setup.sh` for Linux) so anyone can install it fast.
-```
-
