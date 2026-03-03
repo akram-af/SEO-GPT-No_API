@@ -1,0 +1,10 @@
+Technical SEO ensures search engines can crawl, render, and index your site.
+Key areas:
+- Crawling: robots.txt allows important pages, block thin/duplicate areas.
+- Indexing: correct canonical tags, avoid duplicate URLs and parameter issues.
+- Sitemaps: include canonical URLs, keep updated, submit to Search Console.
+- Status codes: fix 404s, use 301 redirects for moved pages, avoid redirect chains.
+- Site speed: improve Core Web Vitals (LCP, CLS, INP).
+- JavaScript: ensure important content is server-rendered or renderable.
+- Mobile: responsive design, avoid intrusive interstitials.
+- Structured data: valid schema markup, test with rich results tools.

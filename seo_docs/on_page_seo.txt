@@ -1,0 +1,11 @@
+On-page SEO improves relevance and usability for a target query.
+Checklist:
+- Title tag: include primary keyword early, keep it readable.
+- Meta description: summarize benefit, include intent terms, improve CTR.
+- H1: align with primary topic.
+- Headings: use H2/H3 to cover subtopics and FAQs.
+- Internal linking: link from related pages using descriptive anchors.
+- Images: descriptive filenames, alt text where helpful.
+- Content: cover intent fully, include examples and steps.
+- Schema: add structured data when appropriate (FAQ, Article, Product).
+- Avoid keyword stuffing; write naturally for users.

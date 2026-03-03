@@ -1,0 +1,11 @@
+Keyword research focuses on identifying queries people search for and mapping them to pages.
+Steps:
+1) Define your primary topics and audience.
+2) Collect seed keywords from services/products and competitor pages.
+3) Expand with variations: questions, comparisons, local modifiers, and problems.
+4) Analyze search intent: informational, commercial, transactional, navigational.
+5) Group keywords into clusters (topic + intent).
+6) Prioritize by business value, difficulty, and topical coverage.
+Deliverables:
+- Keyword list with volume (optional), intent, priority, and target URL
+- Content briefs for each cluster
