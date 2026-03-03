@@ -16,14 +16,22 @@ It uses **RAG (Retrieval-Augmented Generation)**:
 
 C:\python\seo_gpt
 │
+
 ├── build_db.py
+
 ├── app.py
+
 ├── chroma_db (will be created after build)
+
 ├── seo_docs
+
 │     ├── technical_seo.txt
 │     ├── on_page_seo.txt
+
 │
+
 └── .venv
+
 ````md
 # SEO-GPT (Local RAG, No API)
 
@@ -388,7 +396,8 @@ Then visit:
 
 ### C) Ensure Ollama is running on the server
 
-```bash
+```bash<img width="1832" height="989" alt="image" src="https://github.com/user-attachments/assets/b24e9969-37b5-4ee3-bc74-8632482f5c13" />
+
 sudo systemctl enable ollama
 sudo systemctl start ollama
 ollama list
